@@ -508,7 +508,7 @@
       "title": "About Open Food Facts",
       "icon": "ℹ️",
       "order": 17,
-      "file": "3-producers/17-about-open-food-facts.md",
+      "file": "3-producers\\17-about-open-food-facts.md",
       "questions": [
         {
           "id": "what-type-of-information-should-be-shared",
@@ -549,7 +549,7 @@
       "title": "About the scores",
       "icon": "📈",
       "order": 19,
-      "file": "3-producers/19-about-the-scores.md",
+      "file": "3-producers\\19-about-the-scores.md",
       "questions": [
         {
           "id": "who-is-responsible-for-calculating-the-footprint-andor-score",
@@ -582,7 +582,7 @@
       "title": "Manage my account",
       "icon": "👤",
       "order": 20,
-      "file": "3-producers/20-manage-my-account.md",
+      "file": "3-producers\\20-manage-my-account.md",
       "questions": [
         {
           "id": "can-multiple-open-food-facts-accounts-be-linked-to-a-single",
@@ -615,7 +615,7 @@
       "title": "Manage my products",
       "icon": "📦",
       "order": 21,
-      "file": "3-producers/21-manage-my-products.md",
+      "file": "3-producers\\21-manage-my-products.md",
       "questions": [
         {
           "id": "what-guarantees-the-quality-of-the-data-in-open-food-facts",
@@ -752,7 +752,7 @@
       "title": "Analysis of the product portfolio (benchmark, improvement...)",
       "icon": "📊",
       "order": 22,
-      "file": "3-producers/22-analysis-of-the-product-portfolio-benchmark-improvement.md",
+      "file": "3-producers\\22-analysis-of-the-product-portfolio-benchmark-improvement.md",
       "questions": [
         {
           "id": "how-to-access-the-reformulation-recommandation-to-improve-th",
@@ -794,7 +794,7 @@
       "title": "Packaging",
       "icon": "📦",
       "order": 24,
-      "file": "3-producers/24-packaging.md",
+      "file": "3-producers\\24-packaging.md",
       "questions": [
         {
           "id": "how-can-i-add-my-packaging-data-to-open-food-facts",
@@ -827,7 +827,7 @@
       "title": "School projects",
       "icon": "🎓",
       "order": 26,
-      "file": "25-researchers-scholar/26-school-projects.md",
+      "file": "25-researchers-scholar\\26-school-projects.md",
       "questions": [
         {
           "id": "i-have-a-school-project-to-do-i-want-to-use-open-food-facts",
@@ -1424,7 +1424,7 @@
       "title": "A propos d'Open Food Facts",
       "icon": "ℹ️",
       "order": 17,
-      "file": "3-producteurs/17-a-propos-d-open-food-facts.md",
+      "file": "3-producteurs\\17-a-propos-d-open-food-facts.md",
       "questions": [
         {
           "id": "quel-type-dinformation-puis-jedoit-on-partager",
@@ -1465,7 +1465,7 @@
       "title": "Les scores",
       "icon": "📈",
       "order": 19,
-      "file": "3-producteurs/19-les-scores.md",
+      "file": "3-producteurs\\19-les-scores.md",
       "questions": [
         {
           "id": "qui-est-responsable-du-calcul-de-lempreinte-etou-du-score",
@@ -1498,7 +1498,7 @@
       "title": "Gérer mon compte",
       "icon": "👤",
       "order": 20,
-      "file": "3-producteurs/20-gerer-mon-compte.md",
+      "file": "3-producteurs\\20-gerer-mon-compte.md",
       "questions": [
         {
           "id": "plusieurs-comptes-open-food-facts-peuvent-ils-etre-relies-a",
@@ -1531,7 +1531,7 @@
       "title": "Gérer mes produits",
       "icon": "📦",
       "order": 21,
-      "file": "3-producteurs/21-gerer-mes-produits.md",
+      "file": "3-producteurs\\21-gerer-mes-produits.md",
       "questions": [
         {
           "id": "comment-pouvons-nous-etre-surs-que-les-produits-presentes-su",
@@ -1668,7 +1668,7 @@
       "title": "Analyse du portefeuille produits (benchmark, amélioration...)",
       "icon": "📊",
       "order": 22,
-      "file": "3-producteurs/22-analyse-du-portefeuille-produits-benchmark-amelioration.md",
+      "file": "3-producteurs\\22-analyse-du-portefeuille-produits-benchmark-amelioration.md",
       "questions": [
         {
           "id": "comment-acceder-a-la-recommandation-de-reformulation-pour-am",
@@ -1710,7 +1710,7 @@
       "title": "Emballages",
       "icon": "📦",
       "order": 24,
-      "file": "3-producteurs/24-emballages.md",
+      "file": "3-producteurs\\24-emballages.md",
       "questions": [
         {
           "id": "comment-ajouter-mes-donnees-emballages-dans-open-food-facts",
@@ -1743,7 +1743,7 @@
       "title": "Projets scolaires",
       "icon": "🎓",
       "order": 26,
-      "file": "25-researchers-scholar/26-projets-scolaires.md",
+      "file": "25-researchers-scholar\\26-projets-scolaires.md",
       "questions": [
         {
           "id": "jai-un-projet-scolaire-pour-lequel-je-souhaite-utiliser-les",
@@ -2308,7 +2308,7 @@
       "title": "Acerca de Open Food Facts",
       "icon": "ℹ️",
       "order": 17,
-      "file": "3-producteurs/17-acerca-de-open-food-facts.md",
+      "file": "3-producteurs\\17-acerca-de-open-food-facts.md",
       "questions": [
         {
           "id": "que-tipo-de-informacion-debe-compartirse",
@@ -2349,7 +2349,7 @@
       "title": "Acerca de las puntuaciones",
       "icon": "📈",
       "order": 19,
-      "file": "3-producteurs/19-acerca-de-las-puntuaciones.md",
+      "file": "3-producteurs\\19-acerca-de-las-puntuaciones.md",
       "questions": [
         {
           "id": "quien-es-el-responsable-de-calcular-la-huella-yo-la-puntuaci",
@@ -2382,7 +2382,7 @@
       "title": "Administrar mi cuenta",
       "icon": "👤",
       "order": 20,
-      "file": "3-producteurs/20-administrar-mi-cuenta.md",
+      "file": "3-producteurs\\20-administrar-mi-cuenta.md",
       "questions": [
         {
           "id": "pueden-vincularse-varias-cuentas-de-open-food-facts-a-una-mi",
@@ -2415,7 +2415,7 @@
       "title": "Gestionar mis productos",
       "icon": "📦",
       "order": 21,
-      "file": "3-producteurs/21-gestionar-mis-productos.md",
+      "file": "3-producteurs\\21-gestionar-mis-productos.md",
       "questions": [
         {
           "id": "como-podemos-estar-seguros-de-que-los-productos-presentados",
@@ -2552,7 +2552,7 @@
       "title": "Análisis de la cartera de productos (benchmark, mejoras...)",
       "icon": "📊",
       "order": 22,
-      "file": "3-producteurs/22-analisis-de-la-cartera-de-productos-benchmark-mejoras.md",
+      "file": "3-producteurs\\22-analisis-de-la-cartera-de-productos-benchmark-mejoras.md",
       "questions": [
         {
           "id": "como-acceder-a-la-recomendacion-de-reformulacion-para-mejora",
@@ -2594,7 +2594,7 @@
       "title": "Embalaje",
       "icon": "📦",
       "order": 24,
-      "file": "3-producteurs/24-embalaje.md",
+      "file": "3-producteurs\\24-embalaje.md",
       "questions": [
         {
           "id": "como-puedo-anadir-mis-datos-de-envasado-a-open-food-facts",
@@ -2627,7 +2627,7 @@
       "title": "Proyectos escolares",
       "icon": "🎓",
       "order": 26,
-      "file": "25-researchers-scholar/26-proyectos-escolares.md",
+      "file": "25-researchers-scholar\\26-proyectos-escolares.md",
       "questions": [
         {
           "id": "tengo-que-hacer-un-proyecto-escolar-y-quiero-utilizar-los-da",
@@ -3093,7 +3093,7 @@
       "title": "Über Open Food Facts",
       "icon": "ℹ️",
       "order": 17,
-      "file": "3-producteurs/17-uber-open-food-facts.md",
+      "file": "3-producteurs\\17-uber-open-food-facts.md",
       "questions": [
         {
           "id": "welche-art-von-informationen-sollte-weitergegeben-werden",
@@ -3134,7 +3134,7 @@
       "title": "Über Scores",
       "icon": "📈",
       "order": 19,
-      "file": "3-producteurs/19-uber-scores.md",
+      "file": "3-producteurs\\19-uber-scores.md",
       "questions": [
         {
           "id": "wer-ist-fur-die-berechnung-des-fuabdrucks-undoder-des-scores",
@@ -3167,7 +3167,7 @@
       "title": "mein Konto verwalten",
       "icon": "👤",
       "order": 20,
-      "file": "3-producteurs/20-mein-konto-verwalten.md",
+      "file": "3-producteurs\\20-mein-konto-verwalten.md",
       "questions": [
         {
           "id": "konnen-mehrere-open-food-facts-konten-mit-einem-einzigen-unt",
@@ -3200,7 +3200,7 @@
       "title": "Meine Produkte verwalten",
       "icon": "📦",
       "order": 21,
-      "file": "3-producteurs/21-meine-produkte-verwalten.md",
+      "file": "3-producteurs\\21-meine-produkte-verwalten.md",
       "questions": [
         {
           "id": "wie-konnen-wir-sicher-sein-dass-die-auf-open-food-facts-pras",
@@ -3337,7 +3337,7 @@
       "title": "Analyse des Produktportfolios (Benchmark, Verbesserung...)",
       "icon": "📊",
       "order": 22,
-      "file": "3-producteurs/22-analyse-des-produktportfolios-benchmark-verbesserung.md",
+      "file": "3-producteurs\\22-analyse-des-produktportfolios-benchmark-verbesserung.md",
       "questions": [
         {
           "id": "wie-erhalte-ich-zugang-zu-den-empfehlungen-fur-die-neuformul",
@@ -3379,7 +3379,7 @@
       "title": "Verpackung",
       "icon": "📦",
       "order": 24,
-      "file": "3-producteurs/24-verpackung.md",
+      "file": "3-producteurs\\24-verpackung.md",
       "questions": [
         {
           "id": "wie-kann-ich-meine-verpackungsdaten-zu-open-food-facts-hinzu",
@@ -3412,7 +3412,7 @@
       "title": "Schulprojekte",
       "icon": "🎓",
       "order": 26,
-      "file": "25-researchers-scholar/26-schulprojekte.md",
+      "file": "25-researchers-scholar\\26-schulprojekte.md",
       "questions": [
         {
           "id": "ich-habe-ein-schulprojekt-und-mochte-die-daten-von-open-food",
@@ -3886,7 +3886,7 @@
       "title": "A proposito di Open Food Facts",
       "icon": "ℹ️",
       "order": 17,
-      "file": "3-produttori/17-a-proposito-di-open-food-facts.md",
+      "file": "3-produttori\\17-a-proposito-di-open-food-facts.md",
       "questions": [
         {
           "id": "che-tipo-di-informazioni-devono-essere-condivise",
@@ -3919,7 +3919,7 @@
       "title": "Informazioni sui punteggi",
       "icon": "📈",
       "order": 19,
-      "file": "3-produttori/19-informazioni-sui-punteggi.md",
+      "file": "3-produttori\\19-informazioni-sui-punteggi.md",
       "questions": [
         {
           "id": "chi-e-responsabile-del-calcolo-dellimpronta-eo-del-punteggio",
@@ -3952,7 +3952,7 @@
       "title": "Gestire il mio account",
       "icon": "👤",
       "order": 20,
-      "file": "3-produttori/20-gestire-il-mio-account.md",
+      "file": "3-produttori\\20-gestire-il-mio-account.md",
       "questions": [
         {
           "id": "e-possibile-associare-piu-account-open-food-facts-a-ununica",
@@ -3985,7 +3985,7 @@
       "title": "Gestire i miei prodotti",
       "icon": "📦",
       "order": 21,
-      "file": "3-produttori/21-gestire-i-miei-prodotti.md",
+      "file": "3-produttori\\21-gestire-i-miei-prodotti.md",
       "questions": [
         {
           "id": "come-possiamo-essere-sicuri-che-i-prodotti-presentati-su-ope",
@@ -4122,7 +4122,7 @@
       "title": "Analisi del portafoglio prodotti (benchmark, miglioramento...)",
       "icon": "📊",
       "order": 22,
-      "file": "3-produttori/22-analisi-del-portafoglio-prodotti-benchmark-miglioramento.md",
+      "file": "3-produttori\\22-analisi-del-portafoglio-prodotti-benchmark-miglioramento.md",
       "questions": [
         {
           "id": "come-accedere-alle-raccomandazioni-di-riformulazione-per-mig",
@@ -4164,7 +4164,7 @@
       "title": "Imballaggio",
       "icon": "📦",
       "order": 24,
-      "file": "3-produttori/24-imballaggio.md",
+      "file": "3-produttori\\24-imballaggio.md",
       "questions": [
         {
           "id": "come-posso-aggiungere-i-dati-del-mio-imballaggio-a-open-food",
@@ -4197,7 +4197,7 @@
       "title": "Progetti scolastici",
       "icon": "🎓",
       "order": 26,
-      "file": "25-ricercatori-studiosi/26-progetti-scolastici.md",
+      "file": "25-ricercatori-studiosi\\26-progetti-scolastici.md",
       "questions": [
         {
           "id": "devo-fare-un-progetto-scolastico-e-voglio-usare-i-dati-di-op",

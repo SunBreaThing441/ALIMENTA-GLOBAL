@@ -501,7 +501,7 @@
   </div>
   
   <div class="press-form-actions">
-    <a id="btnGhIssue" class="button round small press-header-btn" href="#" target="_blank" rel="noopener noreferrer" style="background-color: #24292f !important; color: #fff !important;">
+    <a id="btnGhIssue" class="button round small press-header-btn" href="https://github.com/openfoodfacts/openfoodfacts-web/issues/new?template=new-press-review.yml" target="_blank" rel="noopener noreferrer" style="background-color: #24292f !important; color: #fff !important;">
       <span class="material-icons">open_in_new</span> 🚀 Open 1-Click GitHub Issue
     </a>
     <a id="btnGoogleForm" class="button round secondary small press-header-btn" href="https://docs.google.com/forms/d/e/1FAIpQLScpzGaRX6Vr7nFHYuApVx5cz2zjU_bKA85qnQpXHsrY0M0KRA/viewform" target="_blank" rel="noopener noreferrer">
@@ -1090,7 +1090,14 @@ function updateSubmitLinks() {
     "---\n*" + (IS_FR ? "Soumis via la page Revue de Presse" : "Submitted via Press Review page") + "*";
   
   const ghBtn = document.getElementById("btnGhIssue");
-  ghBtn.href = "https://github.com/openfoodfacts/openfoodfacts-web/issues/new?title=" + encodeURIComponent(issueTitle) + "&body=" + encodeURIComponent(issueBody) + "&labels=press-review,documentation";
+  const params = new URLSearchParams();
+  params.set("template", "new-press-review.yml");
+  if (title) params.set("title", "[Press]: " + (source ? source + " - " : "") + title);
+  if (source) params.set("source", source);
+  if (date) params.set("date", date);
+  if (url) params.set("link", url);
+  if (quote) params.set("verbatim", quote);
+  ghBtn.href = "https://github.com/openfoodfacts/openfoodfacts-web/issues/new?" + params.toString();
   
   const mailBtn = document.getElementById("btnMailto");
   mailBtn.href = "mailto:presse@openfoodfacts.org?subject=" + encodeURIComponent(issueTitle) + "&body=" + encodeURIComponent(issueBody.replace(/\n/g, "\r\n"));
