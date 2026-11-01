@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.8.0](https://github.com/SunBreaThing441/ALIMENTA-GLOBAL/compare/v1.7.0...v1.8.0) (2026-11-01)
+
+
+### Features
+
+* producers page revamp ([c9c2c46](https://github.com/SunBreaThing441/ALIMENTA-GLOBAL/commit/c9c2c46e8885462bae2f5a530fc84d03c69410cc))
+* release ALIMENTA GLOBAL - Planetary Nutritional Intelligence & Open Food Commons ([3b1cc22](https://github.com/SunBreaThing441/ALIMENTA-GLOBAL/commit/3b1cc22b810648c624408f402817948a33248a96))
+
 ## [1.7.0](https://github.com/openfoodfacts/openfoodfacts-web/compare/v1.6.1...v1.7.0) (2026-10-02)
 
 
